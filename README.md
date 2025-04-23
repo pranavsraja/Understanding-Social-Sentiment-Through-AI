@@ -88,5 +88,3 @@ Among all the models evaluated, the **shallow neural network** demonstrated the 
 
 This project is for academic and educational use only. Data should be used in accordance with original dataset licensing.
 
-
-# Understanding-Social-Sentiment-Through-AI
